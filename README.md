@@ -91,9 +91,13 @@ Postman Collection is included in the repository.
 
 ![Attendance](screenshots/attendance.png)
 
-(screenshots/Admin_registred.png)
+###  Admin_Registered API
 
-(screenshots/All_Api.png)
+![Admin_registered](screenshots/Admin_registred.png)
+
+###  All_Api API
+
+![All_Api](screenshots/All_Api.png)
 ---
 
 ## 🧠 Project Highlights
