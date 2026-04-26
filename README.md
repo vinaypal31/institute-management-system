@@ -90,6 +90,10 @@ Postman Collection is included in the repository.
 ### 📝 Attendance API
 
 ![Attendance](screenshots/attendance.png)
+
+(screenshots/Admin_registred.png)
+
+(screenshots/All_Api.png)
 ---
 
 ## 🧠 Project Highlights
